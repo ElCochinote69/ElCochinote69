@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy un apasionado QA Automation de Argentina 🇦🇷<br>Con 23 años y una fuerte motivación por aprender, me especializo en asegurar la calidad de software a través de pruebas automatizadas. Mi objetivo es integrarme en entornos laborales reales donde pueda aplicar mis conocimientos, mientras continúo desarrollando mis habilidades técnicas y de colaboración.<br><br>Soy una persona curiosa y detallista, siempre en búsqueda de nuevas tecnologías y metodologías que me permitan mejorar los procesos de testing y contribuir al éxito del equipo. Me entusiasma la idea de enfrentar desafíos y aprender de los mejores en la industria.
+¡Hola! Soy un apasionado QA Automation de Argentina 🇦🇷<br>Con 23 años y una fuerte motivación por aprender, me especializo en asegurar la calidad de software a través de pruebas automatizadas. Mi objetivo es integrarme en entornos laborales reales donde pueda aplicar mis conocimientos, mientras continúo desarrollando mis habilidades técnicas y de colaboración.<br><br>Soy una persona detallista, siempre en búsqueda de nuevas tecnologías y metodologías que me permitan mejorar los procesos de testing y contribuir al éxito del equipo. Me entusiasma la idea de enfrentar desafíos y aprender de los mejores en la industria.
 
 
 ## 🌐 Socials:
