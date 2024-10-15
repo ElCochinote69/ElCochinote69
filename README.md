@@ -1,15 +1,15 @@
 # 💫 About Me:
-¡Hola! Soy un apasionado QA Automation de Argentina 🇦🇷<br>Con 23 años y una fuerte motivación por aprender, me especializo en asegurar la calidad de software a través de pruebas automatizadas. Mi objetivo es integrarme en entornos laborales reales donde pueda aplicar mis conocimientos, mientras continúo desarrollando mis habilidades técnicas y de colaboración.<br><br>Soy una persona detallista, siempre en búsqueda de nuevas tecnologías y metodologías que me permitan mejorar los procesos de testing y contribuir al éxito del equipo. Me entusiasma la idea de enfrentar desafíos y aprender de los mejores en la industria.
+¡Hola! Soy un QA Automation de Argentina<br>Con 23 años y una fuerte motivación por aprender, me especializo en asegurar la calidad de software a través de pruebas automatizadas. Mi objetivo es integrarme en entornos laborales reales donde pueda aplicar mis conocimientos, mientras continúo desarrollando mis habilidades técnicas y de colaboración.<br><br>Soy una persona detallista, siempre en búsqueda de nuevas tecnologías y metodologías que me permitan mejorar los procesos de testing y contribuir al éxito del equipo. Me entusiasma la idea de enfrentar desafíos y aprender de los mejores en la industria.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valentinohuanca) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/godbulldozer) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valentinohuanca) ![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)
 
 # 💻 Tech Stack:
 
 ## Languages:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-## frameworks:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## Frameworks:
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ## Database:
